@@ -1,4 +1,4 @@
-# Heart Disease Risk Analysis (EDA + ML)
+# Heart Disease Risk Analysis (EDA)
 
 ## Problem Statement
 **Heart disease remains the leading cause of death globally**, yet early identification of at-risk patients can dramatically improve outcomes. This project performs **comprehensive EDA** on 1,025 patient records with 14 clinical features to uncover **key risk factors** and builds **predictive ML models** to support early diagnosis, risk stratification, and clinical decision-making.
